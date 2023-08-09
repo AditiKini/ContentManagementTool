@@ -1,0 +1,14 @@
+
+.nav-bar{
+    background: #FFFFFF !important;
+    color: black;
+}
+
+.menu{
+    justify-content: right !important;
+    & > a {
+        padding: 20px;
+        color: #000 ;
+        text-decoration: none;
+    }
+}

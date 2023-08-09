@@ -1,0 +1,76 @@
+
+.component{
+    width: 400px;
+    margin: auto;
+    box-shadow: 5px 2px 5px 2px rgb(0 0 0/ 0.6);
+}
+
+.login_logo{
+    width: 150px;
+    display: flex;
+    margin: auto;
+    padding: 30px 0 0;
+}
+
+.middle{
+    padding: 25px 35px 10px 35px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    & > div, & > button, & > p {
+        margin-top: 20px;
+    }
+}
+
+.last{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    & > button, & > p {
+        margin-top: 0px;
+    }
+}
+
+.company_logo{
+    width: 100px;
+    display: flex;
+    margin: auto;
+    padding-bottom: 30px;
+    margin-top: 0px;
+}
+
+
+.login-btn{
+    text-transform: none !important;
+    background:  #f57c00!important;;
+    color: #fff !important;;
+    height: 48px !important;;
+    border-radius: 2px !important;;
+}
+
+.signup-btn{
+    text-transform: none !important;
+    background: #fff !important;
+    color: #f57c00 !important;
+    height: 48px !important;
+    border-radius: 2px !important;
+    
+}
+
+.line {
+    display: inline-block;
+    width: 100px;
+    height: 1px;
+    background-color: #b8b6b6;
+  }
+  
+  
+  .separator-text {
+    padding: 0 10px;
+  }
+  
+  
+  
+  
+  
+  

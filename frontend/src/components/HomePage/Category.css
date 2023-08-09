@@ -1,0 +1,18 @@
+
+
+.table{
+    border: 1px solid rgba(224, 224, 224, 1) !important;
+}
+
+.btn{
+    margin: 50px 20px 20px 10px !important;
+    width: 85% !important;
+    background: #f57c00 !important;
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+.link{
+    text-decoration: none !important;
+    color: inherit !important;
+}
